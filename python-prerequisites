@@ -1,0 +1,28 @@
+//Roadmap before starting with leetcode
+
+** The Absolute Prerequisites Before DSA **
+Before writing a single algorithm, you must be comfortable with these Python fundamentals. If you cannot write these without looking up syntax, practice them first:
+- Collections: How to create, index, and slice lists, dicts, and sets.
+- Loops: Mastering for i in range() vs for item in list, and understanding while loops.
+- Conditionals: Using if, elif, and else with logical operators (and, or, not).
+- Functions: How to pass arguments, return values, and understand variable scope.
+- Built-in Methods: Utilizing common methods like .append(), .pop(), .split(), .join(), and len().
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+** The Breakdown: Where to Spend Your Time **
+1. Variables, Data Types, & Conditionals (2–3 Hours)
+- What to practice: Assigning variables, using if/elif/else, and combining conditions with and, or, and not.
+- The Goal: You can write a script that checks if a data record is valid based on 3 different rules.
+
+2. Mastering Loops (3–4 Hours)
+- What to practice: Writing for i in range() (index-based) vs for item in list (element-based), and handling nested loops.
+- The Goal: You can loop through a list of numbers and extract only the even ones without syntax errors.
+
+3. List & String Manipulations (3–4 Hours)
+- What to practice: Slicing (list[0:3]), modifying elements, and using built-in methods like .append(), .pop(), .split(), and .join().
+- The Goal: You can take a sentence, split it into words, reverse the order of the words, and glue them back together.
+
+4. Dictionaries & Sets (2–3 Hours)
+- What to practice: Adding key-value pairs, checking if a key exists using if key in dict, and using set() to remove duplicate values.
+- The Goal: You can take a list of names and count how many times each name appears using a dictionary.
