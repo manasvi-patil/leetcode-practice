@@ -14,3 +14,56 @@ Hash Tables:
 Contains Duplicate
 Intersection of Two Arrays
 Happy Number
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+** Your Starter LeetCode Checklist **
+These 12 problems are handpicked for a beginner aiming for data-related roles. They focus heavily on data transformation, frequency counting, and filtering
+
+-> Phase 1: Array Basics & Loops (Week 1)
+Focus: Accessing data, iterating, and maintaining running variables.
+``
+1. LeetCode 1929 - Concatenation of Array || https://leetcode.com/problems/concatenation-of-array/description/
+- Why: Teaches you how to manipulate lists, duplicate data layouts, and handle array indexing.
+
+2. LeetCode 1480 - Running Sum of 1d Array || https://leetcode.com/problems/running-sum-of-1d-array/description/
+- Why: Introduction to prefix concepts, which are vital for rolling aggregations in data pipelines.
+
+3. LeetCode 27 - Remove Element || https://leetcode.com/problems/remove-element/description/
+- Why: Teaches in-place array modification, saving memory when filtering data.
+======================================================================================================================
+--> Phase 2: Hash Maps & Sets (Weeks 2-3)
+Focus: Data deduplication, counting frequencies, and O(1) instant lookups.
+``
+1. LeetCode 217 - Contains Duplicate || https://leetcode.com/problems/contains-duplicate/description/
+- Why: The quintessential data cleaning problem. Introduces using a set() for instant deduplication.
+
+2. LeetCode 387 - First Unique Character in a String || https://leetcode.com/problems/first-unique-character-in-a-string/description/
+- Why: Teaches how to build a frequency map (counting occurrences), a daily task in data engineering.
+
+3. LeetCode 1 - Two Sum || https://leetcode.com/problems/two-sum/description/
+- Why: The most famous interview question. It teaches you how to trade space (using a hash map) to drastically optimize time complexity from O(N²) to O(N).
+======================================================================================================================
+--> Phase 3: String Manipulations & Formatting (Week 4)
+Focus: Parsing, cleaning, and validating unstructured text data.
+``
+1. LeetCode 125 - Valid Palindrome || https://leetcode.com/problems/valid-palindrome/description/
+- Why: Forces you to learn string cleaning (removing non-alphanumeric data) and introduces the two-pointer technique.
+
+2. LeetCode 58 - Length of Last Word || https://leetcode.com/problems/length-of-last-word/description/
+- Why: Teaches you how to use .split() and handle trailing whitespaces safely.
+
+3. LeetCode 14 - Longest Common Prefix || https://leetcode.com/problems/longest-common-prefix/description/
+- Why: Helps you practice scanning through vertical structures across multiple records.
+======================================================================================================================
+--> Phase 4: Basic Math & Data Aggregations (Bonus)
+Focus: Handling numerical transformations and sequential logic.
+``
+1. LeetCode 9 - Palindrome Number || https://leetcode.com/problems/palindrome-number/description/
+- Why: Teaches you how to manipulate integers mathematically without converting them to strings.
+
+2. LeetCode 258 - Add Digits || https://leetcode.com/problems/add-digits/description/
+- Why: Excellent for mastering while loops with nested digit extraction arithmetic (% 10 and // 10).
+
+3. LeetCode 704 - Binary Search || https://leetcode.com/problems/binary-search/description/
+- Why: Your first formal algorithm. Teaches you how to efficiently query sorted datasets in \(O(\log N)\) time.
